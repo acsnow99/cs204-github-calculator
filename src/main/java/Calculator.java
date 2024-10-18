@@ -37,6 +37,7 @@ class Calculator {
     .
     etc
      */
+    // TODO: Remove this
     int fibonacciNumberFinder(int n) {
         if (n <= 0) {
             return 0; // Handle invalid input for n <= 0
