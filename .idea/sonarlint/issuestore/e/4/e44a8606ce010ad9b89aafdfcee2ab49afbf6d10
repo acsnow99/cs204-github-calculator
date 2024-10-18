@@ -1,4 +1,14 @@
 
-V
-java:S1220""Move this file to a named package.J$67bf47da-a462-40c4-83cf-bb303f6fb87f
-G	java:S106"+Replace this use of System.out by a logger.(–“Ã¦8à€¡ì©2
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "Result: " 6 times.(öûËëúÿÿÿÿ8Øûìì©2J$141a3bc8-78be-47a8-8520-90a2665de89a
+]
+java:S1220""Move this file to a named package.8Úûìì©2J$c2c414c7-8715-441f-b78d-07444c8cc7e9
+r	java:S106"+Replace this use of System.out by a logger.(¿Íıøÿÿÿÿ8Ñíì©2J$b6f434a0-312a-4af1-b378-85a44efb6a62
+r	java:S106"+Replace this use of System.out by a logger.(öûËëúÿÿÿÿ8Ôíì©2J$c612652c-24d1-4ae7-b5fd-a5a364b629d6
+m	java:S106"+Replace this use of System.out by a logger.(ë÷ØÄ8Öíì©2J$01eb789f-ccb6-4ca1-abc8-2afe2c3a94fe
+r	java:S106!"+Replace this use of System.out by a logger.(ïšÓ½úÿÿÿÿ8×íì©2J$a3447ed5-bfe7-4815-ba4e-b1163fe2dbb1
+r	java:S106&"+Replace this use of System.out by a logger.(üúÍâøÿÿÿÿ8Ùíì©2J$cda5b959-9e43-4314-af89-70a165b609ea
+r	java:S106+"+Replace this use of System.out by a logger.(—Ú¬¾ùÿÿÿÿ8Ûíì©2J$cd0c58c8-d739-4c3a-9e95-3baae55ae359
+r	java:S1060"+Replace this use of System.out by a logger.(“Š½¥úÿÿÿÿ8Üíì©2J$cefee697-f4c6-4b2f-8107-2728000c05f7
+l	java:S1068"+Replace this use of System.out by a logger.(ôÓñv8Şíì©2J$61de5a60-199e-4283-8522-c91dffb96305
+m	java:S106;"+Replace this use of System.out by a logger.(åâàú8¸Õôì©2J$c800fe60-adb7-493d-84f2-0d2ef8f2561e
